@@ -1,0 +1,10 @@
+## GIT Commands ##
+
+git init ------> to create new git repo
+git status ----> to check status of git repo
+git add < file_name> ---> to add file to staging
+git rm --cached (file_name) --> to unstage file
+git commit -m "message for commit"
+git restore fileName --> to reterive file from git repo
+git log --> to check log details of repo
+git log --oneline --pretty -->to short commit id and show in oneline
